@@ -1,4 +1,4 @@
-#Instruções de Entrega do Desafio
+# Instruções de Entrega do Desafio
 Descrição do desafio: Você irá criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
 
 https://github.com/julianazanelatto/power_bi_analyst 
@@ -15,7 +15,7 @@ Utilize os indicadores e botões para selecionar diferentes visuais sobre um mes
 
  
 
-##Utilizei os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
+## Utilizei os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
 
 Objetos que definem o layout do relatório 
 
